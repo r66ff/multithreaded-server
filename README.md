@@ -2,7 +2,7 @@
 
 ## How To Run And What To Expect
 My program sever.py runs **a simple multithreaded web server** that serves requiested
-files (which are structurally the same file really, index.html, with path repalced as per
+files (which are structurally the same file really, index.html, with path repalced as per project
 requirements, but the code is capable of serving completely different files as well).
 
 Code is written in Python 3 and was tested on Ubuntu 16.04.1, so this is a recommended
